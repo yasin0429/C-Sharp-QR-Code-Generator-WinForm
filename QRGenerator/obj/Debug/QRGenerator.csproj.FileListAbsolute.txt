@@ -1,0 +1,14 @@
+c:\users\yasin\documents\visual studio 2015\Projects\QRGenerator\QRGenerator\bin\Debug\QRGenerator.exe.config
+c:\users\yasin\documents\visual studio 2015\Projects\QRGenerator\QRGenerator\bin\Debug\QRGenerator.exe
+c:\users\yasin\documents\visual studio 2015\Projects\QRGenerator\QRGenerator\bin\Debug\QRGenerator.pdb
+c:\users\yasin\documents\visual studio 2015\Projects\QRGenerator\QRGenerator\bin\Debug\QRCoder.dll
+c:\users\yasin\documents\visual studio 2015\Projects\QRGenerator\QRGenerator\bin\Debug\UnityEngine.dll
+c:\users\yasin\documents\visual studio 2015\Projects\QRGenerator\QRGenerator\obj\Debug\QRGenerator.csprojResolveAssemblyReference.cache
+c:\users\yasin\documents\visual studio 2015\Projects\QRGenerator\QRGenerator\obj\Debug\QRGenerator.Form1.resources
+c:\users\yasin\documents\visual studio 2015\Projects\QRGenerator\QRGenerator\obj\Debug\QRGenerator.Properties.Resources.resources
+c:\users\yasin\documents\visual studio 2015\Projects\QRGenerator\QRGenerator\obj\Debug\QRGenerator.csproj.GenerateResource.Cache
+c:\users\yasin\documents\visual studio 2015\Projects\QRGenerator\QRGenerator\obj\Debug\QRGenerator.exe
+c:\users\yasin\documents\visual studio 2015\Projects\QRGenerator\QRGenerator\obj\Debug\QRGenerator.pdb
+C:\Users\Yasin\Source\Repos\C-Sharp-QR-Code-Generator-WinForm\QRGenerator\bin\Debug\QRGenerator.exe.config
+C:\Users\Yasin\Source\Repos\C-Sharp-QR-Code-Generator-WinForm\QRGenerator\obj\Debug\QRGenerator.exe
+C:\Users\Yasin\Source\Repos\C-Sharp-QR-Code-Generator-WinForm\QRGenerator\obj\Debug\QRGenerator.pdb
